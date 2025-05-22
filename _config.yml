@@ -15,4 +15,4 @@ defaults:
     values:
       layout: bin
 
-baseurl: "/wadcoms.github.io"
+baseurl: "/wadcoms"
